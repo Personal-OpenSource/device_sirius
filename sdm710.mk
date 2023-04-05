@@ -64,6 +64,7 @@ PRODUCT_PACKAGES += \
     android.hardware.soundtrigger@2.1-impl
 
 PRODUCT_PACKAGES += \
+    audio.a2dp.default \
     audio.bluetooth.default \
     audio.primary.sdm710 \
     audio.r_submix.default \
@@ -422,6 +423,7 @@ PRODUCT_PACKAGES += \
     libwifi-hal-qcom \
     vendor.qti.hardware.wifi.hostapd@1.2.vendor \
     vendor.qti.hardware.wifi.supplicant@2.1.vendor \
+    WifiResCommon \
     wpa_supplicant \
     wpa_supplicant.conf
 
