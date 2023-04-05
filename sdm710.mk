@@ -70,6 +70,7 @@ PRODUCT_PACKAGES += \
     audio.usb.default
 
 PRODUCT_PACKAGES += \
+    libaudioalsa \
     libqcompostprocbundle \
     libqcomvisualizer \
     libqcomvoiceprocessing \
